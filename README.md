@@ -5,7 +5,7 @@ Short collection of basic steps of a RESTful API implementation in Node.js with 
 ## Samples
 - **Plain Response** - Will answer every request with a standard response
 - **Basic Routing** - Will answer requests to the implemented resources accordingly, with a explicit message
-- **Basic Routing - Logging, Errors, Nodemon** - Same as the above, but with implemented logging, error handling and nodemon
+- **Basic Routing - Logging, Errors, Nodemon** - Same as the above, with implemented logging, error handling and nodemon
 - **Body Parsing - CORS** - Similar with the above, with parsed requests and disabled CORS
 - **MongoDB Operations** - Functional basic MongoDB API
 
