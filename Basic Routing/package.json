@@ -1,0 +1,19 @@
+{
+  "name": "template-rest-api",
+  "version": "1.0.0",
+  "description": "Node.js REST API template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "template",
+    "restful",
+    "api"
+  ],
+  "author": "Paul Bricman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
