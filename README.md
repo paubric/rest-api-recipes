@@ -12,7 +12,7 @@ Short collection of basic steps of a RESTful API implementation in Node.js with 
 ## Usage
 Launch any of the variants with the following command: 
 ```
-nodejs server.py
+node server.py
 ```
 Launch any of the variants, except the first two, with the following command, to automatically restart the server on save:
 ```
