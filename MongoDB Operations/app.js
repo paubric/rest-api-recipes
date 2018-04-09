@@ -5,7 +5,7 @@ const bodyParser = require('body-parser');
 const mongoose = require('mongoose')
 
 // Connect to MongoDB database with mangoose
-dbURI = 'mongodb://hivecluster:hivecluster@hivecluster-shard-00-00-6b8rc.mongodb.net:27017,hivecluster-shard-00-01-6b8rc.mongodb.net:27017,hivecluster-shard-00-02-6b8rc.mongodb.net:27017/test?ssl=true&replicaSet=HiveCluster-shard-0&authSource=admin'
+dbURI = "YOUR_ENDPOINT_HERE" 
 mongoose.connect(dbURI)
   .then(() => {
     console.log("Database connection established!");
