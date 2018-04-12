@@ -10,6 +10,7 @@ Short collection of basic steps of a RESTful API implementation in Node.js with 
 - **MongoDB Operations** - Functional basic MongoDB API
 - **MongoDB Operations - Validation, Better Responses** - Same as the above, with validation and better responses
 - **MongoDB Operations - Relationship** - Same as the above, with a parent resource and relations
+- **MongoDB Operations - Files** - Same as the above, with resourceImage
 
 ## Usage
 Launch any of the variants with the following command: 
