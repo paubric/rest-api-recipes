@@ -9,6 +9,7 @@ Short collection of basic steps of a RESTful API implementation in Node.js with 
 - **Body Parsing - CORS** - Similar with the above, with parsed requests and disabled CORS
 - **MongoDB Operations** - Functional basic MongoDB API
 - **MongoDB Operations - Validation, Better Responses** - Same as the above, with validation and better responses
+- **MongoDB Operations - Relationship** - Same as the above, with a parent resource and relations
 
 ## Usage
 Launch any of the variants with the following command: 
